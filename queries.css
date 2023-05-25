@@ -17,6 +17,10 @@
         flex: 1 1 0;
     }
 
+    .section-features__feature-heading {
+        font-size: calc(40 / 16 * 1rem);
+    }
+
     .btn__learn-more {
         margin-top: 64px;
     }

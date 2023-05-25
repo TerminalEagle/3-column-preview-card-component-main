@@ -23,6 +23,8 @@ body {
     font-family: var(--font-primary);
     font-size: var(--ft-size);
     font-weight: var(--ft-weight-normal);
+
+    background-color: var(--very-light-gray);
 }
 
 main {
